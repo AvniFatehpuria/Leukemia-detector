@@ -7,4 +7,4 @@ Main is in leukemia.py
 To use, write: python leukemiaPredictor.py k filename
 (where k is the number of neighbours to consider)
 
-example: python leukemiaPredictor.py 3 input/simple.csv
+example: python leukemiaPredictor.py 3 input/leukemiaPatients.csv
